@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Fondamento&family=Shadows+Into+Light&display=swap");
+
+.head {
+  font-family: "Bahnschrift semibold";
+  color: rgb(255, 255, 230);
+  /*margin-left: -25%;*/
+  float: left;
+  padding-left: 17%;
+}
+
+.header {
+  background-color: #ffcc33;
+}
+@media only screen and (max-width: 1500px) {
+  .head {
+    padding-left: 10%;
+  }
+}
